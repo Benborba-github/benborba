@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/benborba/",
 
   lang: "zh-CN",
-  title: "奔波霸",
-  description: "奔波霸的博客",
+  title: "JavaScript进阶之路",
+  description: "JavaScript进阶之路",
 
   theme,
 
